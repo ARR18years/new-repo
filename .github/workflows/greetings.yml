@@ -1,8 +1,0 @@
-name: Greetings
-
-on: [pull_request, issues]
-
-jobs:
-  greeting:
-    runs-on: windows 10, debian 10
-    steps: they are in: "DEVELOPERS.MD"
